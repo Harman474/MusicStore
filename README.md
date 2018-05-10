@@ -1,4 +1,4 @@
-<h1>COMP2007 - W2018 AM - MVC Music Store</h1>
+<h1> MVC Music Store</h1>
 
 <p>This application is Mudic store Created with .NET MVC.</p>
 
